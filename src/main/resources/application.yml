@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:sqlserver://172.17.143.11:1433;databaseName=TmsEPrd;encrypt=true;trustServerCertificate=true
     username: api_calls
-    password: kbE@@20212000
+    password: password
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
 
   jpa:
